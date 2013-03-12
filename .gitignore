@@ -1,0 +1,8 @@
+*.py[co]
+__pycache__
+.coverage
+.DS_Store
+build/
+dist/
+docs/_build
+MANIFEST
